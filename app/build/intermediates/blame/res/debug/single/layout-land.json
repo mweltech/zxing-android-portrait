@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/src/main/res/layout-land/encode.xml"
+    },
+    {
+        "merged": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/src/main/res/layout-land/share.xml"
+    }
+]

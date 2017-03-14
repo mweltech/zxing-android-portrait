@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/murraywalker/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.3.0/86ce6f89a1d7944bb9814a2ec5520dccd3ee3dce/android-core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86ce6f89a1d7944bb9814a2ec5520dccd3ee3dce">
+        <dex dex="/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/pre-dexed/debug/android-core-3.3.0_2cf8785d67f788375e829290d2627571379a0256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/murraywalker/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/pre-dexed/debug/core-3.3.0_d0c22dfb2a482aabb225d2ca4c14e29464a25e0a.jar" />
+    </item>
+
+</items>

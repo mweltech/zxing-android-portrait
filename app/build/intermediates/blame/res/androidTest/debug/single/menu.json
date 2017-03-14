@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/res/merged/androidTest/debug/menu/capture.xml",
+        "source": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/bundles/debug/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/res/merged/androidTest/debug/menu/encode.xml",
+        "source": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/bundles/debug/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/res/merged/androidTest/debug/menu/history.xml",
+        "source": "/Users/murraywalker/AndroidStudioProjects/zxing-android/app/build/intermediates/bundles/debug/res/menu/history.xml"
+    }
+]
